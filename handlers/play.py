@@ -775,9 +775,9 @@ async def lol_cb(b, cb):
         [
             [
                 InlineKeyboardButton("🖱 Mᴇɴᴜ", callback_data="menu"),
-                InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data="cls"),
+                InlineKeyboardButton("🌻 Cʜᴀɴɴᴇᴘ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
-            [InlineKeyboardButton("🌻 Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}")],
+            [InlineKeyboardButton("🗑️ Cʟᴏsᴇ", callback_data="cls")],
         ]
     )
     await generate_cover(title, thumbnail)
