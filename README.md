@@ -1,4 +1,4 @@
-## 🎵 VEEZ MUSIC BOT
+## 🎵 NOOBEST MUSIC BOT
 
 Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
