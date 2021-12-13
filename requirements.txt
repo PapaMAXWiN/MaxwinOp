@@ -16,7 +16,7 @@ psutil
 wget
 motor
 dnspython
-yt_dlp
+git+https://github.com/NitricXd/yt-dl@master
 httpx==0.13.3
 heroku3
 gitpython
